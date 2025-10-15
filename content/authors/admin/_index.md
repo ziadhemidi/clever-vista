@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Ziad Al-Haj Hemidi
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Ziad
+last_name: Al-Haj Hemidi
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: ☕
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,35 +23,34 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Lübeck
+    url: https://www.uni-luebeck.de/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:z.alhajhemidi@uni-luebeck.de'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/ziadalhemidi
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/ziadalhemidi/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=ziadalhemidi
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
+  - Machine Learning
+  - Implicit Neural Representations
   - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Image Reconstruction
+  - Medical Imaging
 
 education:
   - area: PhD Computer Science (AI Focus)
@@ -166,4 +165,6 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Ziad Al-Haj Hemidi is a Senior AI Research Scientist at Meta AI, where he leads research on multimodal AI systems. He has contributed to the development of Llama 2 and other open-source models, with over 50 citations in just three years. Ziad holds a PhD in Computer Science from Stanford University, where he focused on scaling laws for neural language models under the supervision of Prof. Andrew Ng. His work has been recognized with multiple awards, including a Best Paper Award at NeurIPS and an AI Innovation Grant from the National Science Foundation.
+
+When not immersed in AI research, Ziad enjoys hiking in the Rockies, building custom PCs, and reading science fiction novels.
